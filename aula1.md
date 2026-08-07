@@ -32,12 +32,6 @@ Controla e administra os processos.
 
 Exemplo: planejamento, controle de qualidade.
 
-**Para decorar:**
-
-`Primário = Valor`
-`Suporte = Apoio`
-`Gerenciamento = Controle`
-
 ## Importância dos Processos
 
 * Reduzir custos
@@ -63,7 +57,7 @@ Exemplo: planejamento, controle de qualidade.
 
 É uma notação gráfica usada para representar e modelar processos.
 
-Exemplo:
+**Exemplo:**
 
 `Início → Fazer pedido → Pagamento → Entrega → Fim`
 
