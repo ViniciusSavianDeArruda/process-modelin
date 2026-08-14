@@ -1,5 +1,7 @@
 # Atividade – Identificando Processos de Negócio no Monkey Mart
 
+**Grupo:** Vinicius Arruda e Eduardo Ramires
+
 ## 1. Identificação do processo
 
 **Pergunta:** Escolha um **processo de negócio** que pode ser observado dentro do Monkey Mart e descreva brevemente qual é o seu objetivo.
